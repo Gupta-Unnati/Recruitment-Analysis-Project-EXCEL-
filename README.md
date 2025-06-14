@@ -49,7 +49,7 @@ To analyze the end-to-end recruitment process, evaluate recruiter efficiency, an
 ---
 
 ## 📊Dashboard Overview
-![Dashboard Preview](./Screenshots/dashboard_visual.png)
+![Dashboard Preview](Screenshot 2025-06-14 234142.png)
 
 ---
 
