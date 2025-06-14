@@ -49,7 +49,7 @@ To analyze the end-to-end recruitment process, evaluate recruiter efficiency, an
 ---
 
 ## 📊Dashboard Overview
-![Dashboard Preview](https://github.com/Gupta-Unnati/Recruitment-Analysis-Project-EXCEL-/tree/main/Screenshot2025-06-14234142.png)
+![Dashboard Preview](https://github.com/Gupta-Unnati/Recruitment-Analysis-Project-EXCEL-/blob/main/Screenshot%202025-06-14%20234142.png)
 
 ---
 
