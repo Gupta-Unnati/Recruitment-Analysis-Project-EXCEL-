@@ -34,8 +34,10 @@ To analyze the end-to-end recruitment process, evaluate recruiter efficiency, an
 | File | Description |
 |------|-------------|
 | `Recruitment Analysis Project.xlsx` | Complete Excel dashboard with slicers, charts, and pivot tables |
-| `dashboard_visual.png` | Visual snapshot of the dashboard |
-| `Insight_summary.md`  | Key Insights & Recommendations  |
+| `dashboard_visual.png`              | Visual snapshot of the dashboard |
+| `Insight_summary.md`                | Key Insights & Recommendations  |
+| `data_dictionary.md`                | Definitions of each columns used in the dataset |
+| `calculation_explained.md`          | Steps for formula-based metrics like conversion days |
 
 ---
 
